@@ -1,8 +1,8 @@
 <p align="center">
   # Hi, I'm Michael Bardalez 👋
-
+<p align="center">
   ## Software Developer
-
+<p align="center">
   ## Languages I know:
   * HTML
   * CSS
@@ -12,11 +12,11 @@
   * Python
   * C#
   * XAML
-
+<p align="center">
   ## Frameworks I know:
   * Bootstrap
   * .NET
-
+<p align="center">
   ## Languages and Frameworks learning:
   * Angular
   * Laravel
