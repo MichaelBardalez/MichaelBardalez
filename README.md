@@ -1,4 +1,5 @@
-### Hi, I'm Michael Bardalez 👋
+<p align="center">
+# Hi, I'm Michael Bardalez 👋
 
 ## Software Developer
 
@@ -20,7 +21,7 @@
 * Angular
 * Laravel
 * Jquery
-
+</p>
 <!--
 **MichaelBardalez/MichaelBardalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
