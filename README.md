@@ -1,31 +1,26 @@
-<p align="center">
-  # Hi, I'm Michael Bardalez 👋
-</p>
-<p align="center">
-  ## Software Developer
-</p>
-<p align="center">
-  ## Languages I know:
-  * HTML
-  * CSS
-  * JavaScript
-  * PHP
-  * SQL
-  * Python
-  * C#
-  * XAML
-</p>
-<p align="center">
-  ## Frameworks I know:
-  * Bootstrap
-  * .NET
-</p>
-<p align="center">
-  ## Languages and Frameworks learning:
-  * Angular
-  * Laravel
-  * Jquery
-</p>
+# Hi, I'm Michael Bardalez 👋
+
+## Software Developer
+
+## Languages I know:
+* HTML
+* CSS
+* JavaScript
+* PHP
+* SQL
+* Python
+* C#
+* XAML
+
+## Frameworks I know:
+* Bootstrap
+* .NET
+
+## Languages and Frameworks learning:
+* Angular
+* Laravel
+* Jquery
+  
 <!--
 **MichaelBardalez/MichaelBardalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
