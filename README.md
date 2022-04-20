@@ -21,8 +21,7 @@
 * Laravel
 * Jquery
 
-![](https://github.com/MichaelBardalez/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/MichaelBardalez/github-stats/blob/master/generated/languages.svg)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelBardalez&hide=contribs,prs)
 <!--
 **MichaelBardalez/MichaelBardalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
