@@ -20,8 +20,8 @@
 * Angular
 * Laravel
 * Jquery
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelBardalez&hide=contribs,prs)
+* 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelBardalez)](https://github.com/MichaelBardalez/github-readme-stats)
 <!--
 **MichaelBardalez/MichaelBardalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
